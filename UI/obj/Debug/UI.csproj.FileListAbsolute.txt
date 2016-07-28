@@ -1,0 +1,14 @@
+F:\UI\UI\bin\Debug\UI.exe.config
+F:\UI\UI\bin\Debug\UI.exe
+F:\UI\UI\bin\Debug\UI.pdb
+F:\UI\UI\bin\Debug\CSkin.dll
+F:\UI\UI\bin\Debug\CSkin.xml
+F:\UI\UI\obj\Debug\UI.Form1.resources
+F:\UI\UI\obj\Debug\UI.Properties.Resources.resources
+F:\UI\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+F:\UI\UI\obj\Debug\UI.exe
+F:\UI\UI\obj\Debug\UI.pdb
+F:\UI\UI\bin\Debug\RoundButton.pdb
+F:\UI\UI\bin\Debug\RoundButton.dll
+F:\UI\UI\bin\Debug\DMSkin.dll
+F:\UI\UI\bin\Debug\LT.WinForm.ImageButton.dll
